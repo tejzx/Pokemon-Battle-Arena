@@ -101,5 +101,3 @@ The **MCP Server** manages:
 ---
 ## 📜 **License**
 This project is licensed under the **MIT License** – free to use, modify, and distribute.
-If you want, I can now **add Pokémon-themed badges & battle GIFs** so the README feels more like a real Pokémon game page.
-Do you want me to make it that way? It’ll look 🔥
